@@ -22,3 +22,5 @@
 | **Trazabilidad** | Capacidad de reconstruir el historial de un resultado o muestra |
 | **QA** | Quality Assurance — Aseguramiento de Calidad |
 | **QC** | Quality Control — Control de Calidad |
+| **MGA 0571** | Método General de Análisis de la FEUM para límites microbianos en áreas de fabricación |
+| **FEUM** | Farmacopea de los Estados Unidos Mexicanos. Referencia normativa oficial para manufactura farmacéutica en México |
