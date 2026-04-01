@@ -48,3 +48,68 @@ activan investigación aunque no se supere el valor establecido.
 | ✅ Dentro de límite | Registro y archivo |
 | ⚠️ Tendencia ascendente | Investigación + incremento de frecuencia de muestreo |
 | ❌ Superación del límite | CAPA inmediata + notificación a QA + evaluación de impacto al producto |
+---
+
+## Sistemas Críticos — Referencia FEUM MGA 0571
+
+Los sistemas críticos forman parte del programa de monitoreo ambiental
+por su impacto directo en la calidad microbiológica del área y el producto.
+
+### Agua para uso farmacéutico
+
+| Parámetro | Consideración |
+|---|---|
+| Tipo de agua | Purificada / Para inyección (WFI) |
+| Riesgo asociado | Fuente de contaminación microbiana si no se controla |
+| Monitoreo | Recuento microbiano periódico en puntos de uso |
+| Acción ante desviación | Investigación + CAPA + evaluación de impacto al producto |
+
+### Sistema HVAC (Ventilación, Calefacción y Acondicionamiento de Aire)
+
+| Parámetro | Consideración |
+|---|---|
+| Función crítica | Mantener presión diferencial, temperatura, humedad y calidad del aire |
+| Riesgo asociado | Contaminación cruzada entre áreas y transporte de microorganismos |
+| Monitoreo | Verificación de filtros HEPA, presiones diferenciales y patrones de flujo |
+| Acción ante desviación | Revisión técnica inmediata + evaluación de impacto microbiológico |
+
+---
+
+## Apéndices FEUM aplicables
+
+### Apéndice VI — Conservación, mantenimiento y manejo de cultivos microbianos: sistema lote semilla
+
+Aplica a laboratorios que trabajan con cepas de referencia para pruebas microbiológicas.
+
+| Punto clave | Descripción |
+|---|---|
+| Sistema lote semilla | Garantiza identidad, viabilidad y pureza de cepas de trabajo |
+| Trazabilidad | Cada cepa debe tener historial documentado de origen y transferencias |
+| Conservación | Métodos validados: liofilización, congelación en glicerol, nitrógeno líquido |
+| Contaminación | Cualquier desviación en pureza invalida el lote semilla |
+
+> Relevante para laboratorios de control de calidad que usan cepas ATCC
+> o equivalentes como controles positivos en pruebas de esterilidad y límite microbiano.
+
+### Apéndice VII — Análisis microbiológico de productos farmacéuticos no estériles
+
+Aplica a productos de manufactura en Clase C y D.
+
+| Punto clave | Descripción |
+|---|---|
+| Objetivo | Verificar que el producto cumple límites microbianos establecidos |
+| Pruebas incluidas | Recuento de mesófilos aerobios, hongos y levaduras, patógenos específicos |
+| Patógenos de control | Salmonella spp., E. coli, S. aureus, P. aeruginosa según aplique |
+| Validación del método | Requiere demostrar ausencia de efecto inhibitorio del producto |
+
+---
+
+## Referencias normativas completas
+
+| Documento | Aplicación |
+|---|---|
+| FEUM 13ª ed. — MGA 0571 | Límites microbianos en áreas de fabricación |
+| FEUM — Apéndice VI | Manejo de cultivos microbianos y sistema lote semilla |
+| FEUM — Apéndice VII | Análisis microbiológico de productos no estériles |
+| NOM-059-SSA1 | Buenas prácticas de fabricación de medicamentos |
+| COFEPRIS | Regulación sanitaria aplicable en México |
