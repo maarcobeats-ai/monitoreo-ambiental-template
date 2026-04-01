@@ -1,55 +1,50 @@
 # Criterios de Aceptación — Monitoreo Ambiental Microbiológico
 
-Referencia: EU GMP Annex 1 / NOM-059-SSA1 / COFEPRIS
+**Referencia normativa:** FEUM 13ª edición — MGA 0571 Límites Microbianos  
+**Complemento:** NOM-059-SSA1 / COFEPRIS
 
 ---
 
-## Límites por clasificación de área
+## Límites máximos permitidos por clase de área
 
-### Monitoreo de aire (UFC/m³)
+### Tabla MGA 0571 — FEUM 13ª edición
 
-| Clase | En reposo — Alerta | En reposo — Acción | En operación — Alerta | En operación — Acción |
+| Clase de Área | Aire (UFC/m³) | Placas de sedimentación (UFC/4h) | Placas de contacto (UFC/placa) | Guante (UFC/guante) |
 |---|---|---|---|---|
-| A (ISO 5) | <1 | 1 | <1 | 1 |
-| B (ISO 7) | 10 | 20 | 5 | 10 |
-| C (ISO 8) | 100 | 200 | 50 | 100 |
-| D | 200 | 400 | 100 | 200 |
+| **Clase A (Grado A)** | < 1 | < 1 | < 1 | < 1 |
+| **Clase B (Grado B)** | 10 | 5 | 5 | 5 |
+| **Clase C (Grado C)** | 100 | 50 | 25 | — |
+| **Clase D (Grado D)** | 200 | 100 | 50 | — |
+
+> Los valores anteriores constituyen tanto niveles de alerta como de acción.  
+> Cualquier superación requiere investigación inmediata para determinar la causa de la desviación microbiológica.
 
 ---
 
-### Monitoreo de superficies (UFC/placa Rodac — 25 cm²)
+## Descripción por clase de área
 
-| Clase | Alerta | Acción |
+| Clase | Características | Aplicación típica |
 |---|---|---|
-| A | <1 | 1 |
-| B | 5 | 10 |
-| C | 25 | 50 |
-| D | 50 | 100 |
-
----
-
-### Monitoreo de personal (UFC/placa de contacto)
-
-| Zona | Alerta | Acción |
-|---|---|---|
-| Guantes / manos | <1 | 1 |
-| Bata / uniforme | 5 | 10 |
+| **A** | Zona crítica. Flujo laminar obligatorio | Llenado aséptico, conexiones críticas |
+| **B** | Entorno inmediato de zona A | Preparación y llenado aséptico |
+| **C** | Área limpia de criticidad media | Etapas menos críticas de manufactura |
+| **D** | Área limpia de baja criticidad | Fabricación de productos no estériles |
 
 ---
 
 ## Criterios de tendencia
 
-Tres resultados consecutivos en límite de alerta
-activan investigación aunque no se supere el límite de acción.
+Tres resultados consecutivos cercanos al límite máximo
+activan investigación aunque no se supere el valor establecido.
 
 > **Regla de oro:** La tendencia es tan importante como el valor puntual.
 
 ---
 
-## Acciones por nivel
+## Acciones por resultado
 
-| Nivel | Acción requerida |
+| Resultado | Acción requerida |
 |---|---|
-| ✅ Normal | Registro y archivo |
-| ⚠️ Alerta | Investigación + incremento de frecuencia |
-| ❌ Acción | CAPA inmediata + notificación a QA + posible cuarentena |
+| ✅ Dentro de límite | Registro y archivo |
+| ⚠️ Tendencia ascendente | Investigación + incremento de frecuencia de muestreo |
+| ❌ Superación del límite | CAPA inmediata + notificación a QA + evaluación de impacto al producto |
